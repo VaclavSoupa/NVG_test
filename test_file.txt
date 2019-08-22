@@ -1,6 +1,0 @@
-class MyLib{
-   function MultiplyBy100(value : Decimal) : Decimal
-     {
-      return value * 100;
-     }
-} 
